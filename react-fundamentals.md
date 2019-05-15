@@ -3,16 +3,25 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is React?
+"JS library"
+a tool from FB to code...easier...with HTML, CSS, and JS
 
 2.  What is create-react-app?
+The command to download a new react project
 
 3.  What is Component Based Architecture?
+code storage/organization. easier to delegate tasks. readability. reusability
 
 4.  What is JSX?
+JSX is JS that can hold HTML and CSS elements within the "return" element
+"syntax extension to JS"
 
 5.  What is the virtual DOM?
+A glorious thing that checks your changes to see if it needs to update the file or not.
+lightweight DOM to check 
 
 6.  What is unidirectional (one-way) data flow?
+code can only read in 1 direction (down)
 
 ### Understand
 

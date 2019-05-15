@@ -5,8 +5,10 @@ Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and ht
 1.  Each component has several `lifecycle methods` that you can override to do what?
 
 2.  What are the 4 categories of lifecycle methods? (these are the headings from the first link)
+Mounting, Updating, Unmounting, Error Handling
 
 3.  What are the names of the 6 commonly used lifecycle methods? (these are in bold in the first link)
+Constructor, Render, componentDidMount, componentDidUpdate, componentWillUnmount
 
 ### Understand
 

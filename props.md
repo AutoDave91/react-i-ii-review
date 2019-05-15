@@ -3,14 +3,19 @@
 Answer these on your own, then compare answers as a group
 
 1.  What are props?
+"Prop-erties"
+respected in React and can only be used with pure functions
 
 2.  How do you pass props from a parent to a child?
-
+this.props
+"declaring prop to child via parent tag"
 3.  How do you access props from a class based child component?
-
+'define callback parent, pass callback child, call callback w/props'
 4.  How do you access props from a functional component?
 
+
 5.  How do you bind a function to a parent component so that it can be passed to a child?
+let this.aFunction = this.bFunction.bind(this)
 
 ### Understand
 

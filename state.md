@@ -3,10 +3,13 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+The object in which the data is stored within a class
 
 2.  Where do you set initial state?
+typically in the class's constructor...tho you can use a hook to get it in a function instead
 
 3.  What method do you use to update state?
+this.setState()
 
 ### Understand
 
